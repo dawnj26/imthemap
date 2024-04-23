@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040111073302",
+    "project_id": "mad7-421212",
+    "storage_bucket": "mad7-421212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040111073302:android:f5f09f4754eaddf00f5d37",
+        "android_client_info": {
+          "package_name": "com.example.quinto_assignment7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Fr0KLi9txhXGFLvYzbEbjMpM7tEVqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
